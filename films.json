@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Avatar",
+        "worldwide gross": "$2,923,706,026",
+        "year": 2009,
+        "countries": "United Kingdom, United States",
+        "directors": "James Cameron"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "worldwide gross": "$2,797,501,328",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Anthony RussoJoe Russo"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "worldwide gross": "$2,320,250,281",
+        "year": 2022,
+        "countries": "United States",
+        "directors": "James Cameron"
+    },
+    {
+        "title": "Titanic",
+        "worldwide gross": "$2,257,844,554",
+        "year": 1997,
+        "countries": "United States",
+        "directors": "James Cameron"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "worldwide gross": "$2,068,223,624",
+        "year": 2015,
+        "countries": "United States",
+        "directors": "J. J. Abrams"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "worldwide gross": "$2,048,359,754",
+        "year": 2018,
+        "countries": "United States",
+        "directors": "Anthony RussoJoe Russo"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "worldwide gross": "$1,922,598,800",
+        "year": 2021,
+        "countries": "United States",
+        "directors": "Jon Watts"
+    },
+    {
+        "title": "Ne Zha 2 \u2020",
+        "worldwide gross": "$1,918,534,560",
+        "year": 2025,
+        "countries": "China",
+        "directors": ""
+    },
+    {
+        "title": "Inside Out 2",
+        "worldwide gross": "$1,698,863,816",
+        "year": 2024,
+        "countries": "United States",
+        "directors": "Kelsey Mann"
+    },
+    {
+        "title": "Jurassic World",
+        "worldwide gross": "$1,671,537,444",
+        "year": 2015,
+        "countries": "United States",
+        "directors": "Colin Trevorrow"
+    },
+    {
+        "title": "The Lion King",
+        "worldwide gross": "$1,656,943,394",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Jon Favreau"
+    },
+    {
+        "title": "The Avengers",
+        "worldwide gross": "$1,518,815,515",
+        "year": 2012,
+        "countries": "United States",
+        "directors": "Joss Whedon"
+    },
+    {
+        "title": "Furious 7",
+        "worldwide gross": "$1,515,341,399",
+        "year": 2015,
+        "countries": "United States China",
+        "directors": "James Wan"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "worldwide gross": "$1,495,696,292",
+        "year": 2022,
+        "countries": "United States",
+        "directors": "Joseph Kosinski"
+    },
+    {
+        "title": "Frozen 2",
+        "worldwide gross": "$1,450,026,933",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Chris Buck, Jennifer Lee"
+    },
+    {
+        "title": "Barbie",
+        "worldwide gross": "$1,447,038,421",
+        "year": 2023,
+        "countries": "United States, United Kingdom",
+        "directors": "Greta Gerwig"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "worldwide gross": "$1,402,809,540",
+        "year": 2015,
+        "countries": "United States",
+        "directors": "Joss Whedon"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "worldwide gross": "$1,362,566,989",
+        "year": 2023,
+        "countries": "United States",
+        "directors": "Aaron Horvath, Michael Jelenic"
+    },
+    {
+        "title": "Black Panther",
+        "worldwide gross": "$1,347,280,838",
+        "year": 2018,
+        "countries": "United States",
+        "directors": "Ryan Coogler"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "worldwide gross": "$1,342,139,727",
+        "year": 2011,
+        "countries": "United Kingdom, United States",
+        "directors": "David Yates"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "worldwide gross": "$1,338,073,645",
+        "year": 2024,
+        "countries": "United States",
+        "directors": "Shawn Levy"
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "worldwide gross": "$1,332,539,889",
+        "year": 2017,
+        "countries": "United States",
+        "directors": "Rian Johnson"
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "worldwide gross": "$1,308,473,425",
+        "year": 2018,
+        "countries": "China, United States",
+        "directors": "J. A. Bayona"
+    },
+    {
+        "title": "Frozen",
+        "worldwide gross": "$1,290,000,000",
+        "year": 2013,
+        "countries": "United States",
+        "directors": "Chris Buck, Jennifer Lee"
+    },
+    {
+        "title": "Beauty and the Beast",
+        "worldwide gross": "$1,263,521,126",
+        "year": 2017,
+        "countries": "United States",
+        "directors": "Bill Condon"
+    },
+    {
+        "title": "Incredibles 2",
+        "worldwide gross": "$1,242,805,359",
+        "year": 2018,
+        "countries": "United States",
+        "directors": "Brad Bird"
+    },
+    {
+        "title": "The Fate of the Furious",
+        "worldwide gross": "$1,238,764,765",
+        "year": 2017,
+        "countries": "United States, China",
+        "directors": "F. Gary Gray"
+    },
+    {
+        "title": "Iron Man 3",
+        "worldwide gross": "$1,214,811,252",
+        "year": 2013,
+        "countries": "United States",
+        "directors": "Shane Black"
+    },
+    {
+        "title": "Minions",
+        "worldwide gross": "$1,159,444,662",
+        "year": 2015,
+        "countries": "United States",
+        "directors": "Pierre Coffin, Kyle Balda"
+    },
+    {
+        "title": "Captain America: Civil War",
+        "worldwide gross": "$1,153,337,496",
+        "year": 2016,
+        "countries": "United States",
+        "directors": "Anthony RussoJoe Russo"
+    },
+    {
+        "title": "Aquaman",
+        "worldwide gross": "$1,148,528,393",
+        "year": 2018,
+        "countries": "United States",
+        "directors": "James Wan"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "worldwide gross": "$1,147,997,407",
+        "year": 2003,
+        "countries": "New Zealand, Germany, United States",
+        "directors": "Peter Jackson"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "worldwide gross": "$1,132,679,685",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Jon Watts"
+    },
+    {
+        "title": "Captain Marvel",
+        "worldwide gross": "$1,128,274,794",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Anna BodenRyan Fleck"
+    },
+    {
+        "title": "Transformers: Dark of the Moon",
+        "worldwide gross": "$1,123,794,079",
+        "year": 2011,
+        "countries": "United States",
+        "directors": "Michael Bay"
+    },
+    {
+        "title": "Skyfall",
+        "worldwide gross": "$1,108,594,137",
+        "year": 2012,
+        "countries": "United KingdomUnited States",
+        "directors": "Sam Mendes"
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "worldwide gross": "$1,104,054,072",
+        "year": 2014,
+        "countries": "United States",
+        "directors": "Michael Bay"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "worldwide gross": "$1,081,169,825",
+        "year": 2012,
+        "countries": "United States, United Kingdom",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "title": "Joker",
+        "worldwide gross": "$1,074,458,282",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Todd Phillips"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "worldwide gross": "$1,074,144,248",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "J. J. Abrams"
+    },
+    {
+        "title": "Toy Story 4",
+        "worldwide gross": "$1,073,394,593",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Josh Cooley"
+    },
+    {
+        "title": "Toy Story 3",
+        "worldwide gross": "$1,066,970,811",
+        "year": 2010,
+        "countries": "United States",
+        "directors": "Lee Unkrich"
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "worldwide gross": "$1,066,179,747",
+        "year": 2006,
+        "countries": "United States",
+        "directors": "Gore Verbinski"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "worldwide gross": "$1,057,420,387",
+        "year": 2016,
+        "countries": "United States",
+        "directors": "Gareth Edwards"
+    },
+    {
+        "title": "Moana 2 \u2020",
+        "worldwide gross": "$1,053,422,063",
+        "year": 2024,
+        "countries": "United States",
+        "directors": "David Derrick Jr.[1], Jason Hand[1], Dana Ledoux Miller[1]"
+    },
+    {
+        "title": "Aladdin",
+        "worldwide gross": "$1,050,693,953",
+        "year": 2019,
+        "countries": "United States",
+        "directors": "Guy Ritchie"
+    },
+    {
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "worldwide gross": "$1,046,515,409",
+        "year": 1999,
+        "countries": "United States",
+        "directors": "George Lucas"
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "worldwide gross": "$1,045,713,802",
+        "year": 2011,
+        "countries": "United States",
+        "directors": "Rob Marshall"
+    },
+    {
+        "title": "Jurassic Park",
+        "worldwide gross": "$1,037,535,230",
+        "year": 1993,
+        "countries": "United States",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "title": "Despicable Me 3",
+        "worldwide gross": "$1,034,800,131",
+        "year": 2017,
+        "countries": "United States",
+        "directors": "Pierre Coffin, Kyle Balda"
+    }
+]
