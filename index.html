@@ -4,51 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Data Table</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to the CSS file -->
-    <style>
-        body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
-}
-
-h1 {
-    text-align: center;
-    color: #2c3e50;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-th, td {
-    padding: 12px 15px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-th {
-    background-color: #2c3e50;
-    color: white;
-    font-weight: bold;
-}
-
-tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
-
-tr:hover {
-    background-color: #f1f1f1;
-}
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Film Data</h1>
+
+    <!-- Filter Input -->
+    <div class="filter-container">
+        <label for="filterTitle">Filter by Title:</label>
+        <input type="text" id="filterTitle" placeholder="Enter title...">
+        
+        <label for="filterYear">Filter by Year:</label>
+        <input type="number" id="filterYear" placeholder="Enter year...">
+    </div>
+
+    <!-- Sort Buttons -->
+    <div class="sort-container">
+        <button id="sortTitle">Sort by Title</button>
+        <button id="sortGross">Sort by Worldwide Gross</button>
+        <button id="sortYear">Sort by Year</button>
+    </div>
+
+    <!-- Table -->
     <table id="filmTable">
         <thead>
             <tr>
@@ -64,6 +41,6 @@ tr:hover {
         </tbody>
     </table>
 
-    <script src="script.js"></script> <!-- Link to the JavaScript file -->
+    <script src="script.js"></script>
 </body>
 </html>
